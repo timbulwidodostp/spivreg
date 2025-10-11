@@ -1,0 +1,4 @@
+D 'xtloglin': Robust Lagrange multiplier test of linear and log-linear models against Box-Cox alternatives after regress or xtreg Use xtloglin With STATA 19
+D
+F xtloglin.ado
+F xtloglin.sthlp
