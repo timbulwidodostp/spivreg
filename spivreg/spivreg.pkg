@@ -1,4 +1,32 @@
-D 'xtloglin': Robust Lagrange multiplier test of linear and log-linear models against Box-Cox alternatives after regress or xtreg Use xtloglin With STATA 19
+D 'spivreg': Spatial-autoregressive model with spatial-autoregressive errors and additional endogenous variables Use spivreg With STATA 19
 D
-F xtloglin.ado
-F xtloglin.sthlp
+F _spreg_gs2sls.ado
+F _spreg_ml.ado
+F lspmat.mlib
+F spivreg.ado
+F spivreg.sthlp
+F spivreg_postestimation.sthlp
+F spmat.ado
+F spmat.sthlp
+F spmat_contiguity.sthlp
+F spmat_drop.sthlp
+F spmat_dta.sthlp
+F spmat_eigenvalues.sthlp
+F spmat_export.sthlp
+F spmat_getmatrix.sthlp
+F spmat_graph.sthlp
+F spmat_idistance.sthlp
+F spmat_import.sthlp
+F spmat_lag.sthlp
+F spmat_note.sthlp
+F spmat_permute.sthlp
+F spmat_putmatrix.sthlp
+F spmat_save.sthlp
+F spmat_summarize.sthlp
+F spmat_tobanded.sthlp
+F spmat_use.sthlp
+F spreg.ado
+F spreg.sthlp
+F spreg_estat.ado
+F spreg_p.ado
+F spreg_postestimation.sthlp
