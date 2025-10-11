@@ -2,4 +2,4 @@
 1
 2
 3
-p xtloglin Robust Lagrange multiplier test of linear and log-linear models against Box-Cox alternatives after regress or xtreg Use xtloglin With STATA 19
+p spivreg Spatial-autoregressive model with spatial-autoregressive errors and additional endogenous variables Use spivreg With STATA 19
