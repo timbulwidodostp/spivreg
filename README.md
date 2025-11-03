@@ -1,6 +1,8 @@
 # spivreg
 Spatial-autoregressive model with spatial-autoregressive errors and additional endogenous variables Use spivreg With STATA 19
 
+https://www.youtube.com/watch?v=tQSGobcmraE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
